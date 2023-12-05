@@ -10,7 +10,7 @@ The task challenges students to refactor the origin code for the Horiseon web pa
 
 ## Screenshot
 
-![Screenshot of Horiseon webpage after accessibility changes.](./Assets/images/Screenshot.png)
+![Screenshot of Horiseon webpage after accessibility changes.](Assets/images/Screenshot.png)
 
 ## Installation
 
